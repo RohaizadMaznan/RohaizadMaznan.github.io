@@ -1,0 +1,13 @@
+body {
+	background-color: #c7f8ff;
+}
+
+div {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+div h1 {
+	margin-right: 20px;
+}
